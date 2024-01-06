@@ -1,3 +1,2 @@
-# Enigma-wartz
-Hey Viewers, 
-Here's my journey on towards becoming an Professional Programer right from the begining. I am currently learnig Python and I will try to daily add my codes about each thing I learn on daily basis.
+# Enigma-wart
+Hey there! I'm Reckz69 for the sake of Github, and I'm thrilled to welcome you to my GitHub profile. I'm passionate about programming and currently proficient in C and C++. I'm also diving into the exciting world of Python, eager to expand my skills and knowledge. Join me on this awesome journey of learning and growth as I explore the endless possibilities of coding. I believe in the power of collaboration and open-source development, and I'm excited to contribute to and learn from the amazing community here on GitHub. Whether it's building cool projects, solving challenging problems, or simply sharing knowledge, I'm always up for the adventure. So, feel free to connect with me and let's create something awesome together!
